@@ -1,0 +1,20 @@
+h3
+  {
+    color: red;
+  }
+.test_image_and_result1, .test_image_and_result2, .test_image_and_result3, .test_image_and_result4, .test_image_and_result5
+  {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+  }
+.copy_right_footer 
+  {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+  }
